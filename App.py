@@ -4,10 +4,10 @@ import joblib
 import warnings
 warnings.filterwarnings("ignore")
 
-#model = joblib.load("best_models.pkl")
-model = joblib.load(
-    r"C:\Users\user\Desktop\AIML\StudentExam\best_models.pkl"
-)
+model = joblib.load("best_models.pkl")
+# model = joblib.load(
+#     r"C:\Users\user\Desktop\AIML\StudentExam\best_models.pkl"
+# )
 
 st.title("Student Exam Score Predictor")
 
