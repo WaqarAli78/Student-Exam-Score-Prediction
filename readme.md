@@ -15,24 +15,16 @@ A machine learning-powered web application built with Streamlit that predicts a 
 📂 Project Structure
 StudentExamPredictor/
 │
+    Image
 ├── App.py
 ├── best_models.pkl
 ├── notebook.ipynb
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-🖼️ Screenshots
-Home Page
+   
 
-Replace the image below with your own screenshot.
 
-screenshots/home.png
-
-Example Markdown:
-
-![Home Page](screenshots/home.png)
-Prediction Result
-![Prediction](screenshots/prediction.png)
 🧠 Input Features
 Feature	Description
 Study Hours	Hours spent studying per day
@@ -44,7 +36,7 @@ Part-Time Job	Yes or No
 
 Clone the repository
 
-git clone https://github.com/yourusername/StudentExamPredictor.git
+git clone https://github.com/WaqarAli78/Student-Exam-Score-Prediction.git
 
 Move into the project directory
 
@@ -67,7 +59,7 @@ Step 2
 
 Visit
 
-https://share.streamlit.io/
+https://student-marks-predcition.streamlit.app/
 
 Step 3
 
@@ -96,7 +88,7 @@ Click Deploy
 
 Your application will be available at
 
-https://your-app-name.streamlit.app
+https://github.com/WaqarAli78/Student-Exam-Score-Prediction.git
 📦 Requirements
 streamlit
 numpy
